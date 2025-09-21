@@ -44,7 +44,7 @@
 
     .input-section {
       display: flex;
-      margin-bottom: 15px;'
+      margin-bottom: 15px;
     }
 
     input {
@@ -99,4 +99,7 @@
 
     .delete-btn:hover {
       background: darkred;
+    }
+    .educational-bg{
+      margin-bottom:10px;
     }
